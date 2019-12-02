@@ -7,7 +7,7 @@ this is script which take target,username and password in file(file.txt) or if y
 NOTE :: username and password must be added in specific format(username:password) to work with script.
 
 
-SOURCE LOGIC :: www.shellvoide.com
+SOURCE LOGIC :: www.shellvoide.com , 
                 i got the logic or algorithm of the script from shellvoide.
                 but write the code on my own without looking at single block of code.                
 
