@@ -1,0 +1,4 @@
+#username and password in the format of the username:password
+#eg ::
+username:password
+#after reading this delete the all content of this file to write the new usename and password list
